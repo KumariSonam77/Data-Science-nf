@@ -1,4 +1,4 @@
-#dobble bar chart
+#double bar chart
 import pandas as pd
 import matplotlib.pyplot as plt
 
